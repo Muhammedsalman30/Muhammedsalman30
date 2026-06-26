@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# I'm Muhammed Salman, 
+### I'm Muhammed Salman, 
 A Data Science enthusiast from Kerala, India, passionate about machine learning, AI, and turning data into meaningful insights.
 I'm currently sharpening my skills in Python, SQL, and advanced ML techniques, with a goal of becoming an AI & ML Engineer who builds intelligent, real-world solutions.
 
